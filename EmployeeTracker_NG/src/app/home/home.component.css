@@ -1,0 +1,10 @@
+table{
+    text-align: center;
+    tr:hover {background-color:darkkhaki}
+}
+th{
+    background-color: chocolate;
+}
+button{
+    margin: 10px;
+}
